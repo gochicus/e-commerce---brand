@@ -1,0 +1,53 @@
+
+.hero {
+
+
+    min-height: 665px;
+    background-color: #e8e8e8;
+}
+.featured {
+    height: 802px;
+}
+.catalog {
+    height: 746px;
+}
+.catalogLink {
+    width: 212px;
+    height: 48px;
+    background-color: #f16d7f;
+    margin-bottom: 113px;
+}
+.discount {
+    height: 529px;
+}
+.subscribe {
+
+    height: 438px;
+    background-color: #f2f2f2;
+}
+.contacts {
+    height: 481px;
+
+}
+.container-hero{
+    display: flex;
+    justify-content: center;
+    background-color: #e8e8e8;
+    align-items: center;
+
+}
+.heroText {
+    width: 550px;
+    height: 92px;
+    color: #222222;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-left: 200px;
+    border-left: 12px solid #f16d7f;
+}
+
+.heroImage {
+
+}
